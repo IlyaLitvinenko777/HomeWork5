@@ -1,0 +1,22 @@
+*{
+    list-style-type: none;
+}
+
+.class{
+    color: aqua;
+}
+
+#class{
+    color: purple;
+}
+
+.class_ul2>.class{
+    color: gold;
+}
+li{
+    color: brown;
+}
+
+.class_ul>.hello, .class_ul2> #hello{
+    color: blue;
+}
